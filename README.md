@@ -50,37 +50,21 @@ Smart Product Traceability & Supply Chain Management System
 
 ## 🛠 Tech Stack
 
-### Languages
+## 📊 GitHub Statistics
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhi-i-b&show_icons=true&theme=github_dark" />
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-i-b&layout=compact&theme=github_dark" />
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+</p>
 
----
+<p align="center">
 
-### AI & Data Science
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-i-b&theme=github-dark" />
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-
----
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-
----
+</p>
 
 ## 📈 Current Focus
 
