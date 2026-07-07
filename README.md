@@ -101,7 +101,7 @@ https://linkedin.com/in/abhijithb-datascience
 
 📧 Email
 
-YOUR_EMAIL@gmail.com
+abhib8138@gmail.com
 
 ---
 
